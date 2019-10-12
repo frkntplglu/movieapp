@@ -2,4 +2,10 @@
 
 Movie app with omdbapi.com 
 
-You can check it with any html server.
+## usage
+
+``` bash
+
+run index.html with any web server such as LiveServer 
+
+```
